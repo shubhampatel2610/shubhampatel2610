@@ -1,5 +1,4 @@
-## Hi there 👋... I am Shubham Patel 😄...
-### A full stack developer
+## Hi there 👋... I am Shubham Patel 😄... A full stack developer 💻
 
 ### About me
 - 🙋🏻‍♂️ I am 2023 BTech graduate from DAIICT, Gandhinagar.
