@@ -13,8 +13,8 @@
 - Development Tools: Visual Studio Code, Postman
 - Programming Languages: C++
 
-### Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhampatel2610&theme=dark&show_icons=true)
+<!-- ### Stats
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhampatel2610&theme=dark&show_icons=true) -->
 
 <!--
 **shubhampatel2610/shubhampatel2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
