@@ -8,7 +8,7 @@
 
 ### Tools and Technologies
 - Web Development: ReactJS, NodeJS, ExpressJS, TypeScript/JavaScript, HTML, CSS, Bootstrap
-- Databases: MongoDB, postgreSQL
+- Databases: SQL, noSQL, MongoDB, postgreSQL
 - Version Control: Git, GitHub
 - Development Tools: Visual Studio Code, Postman
 - Programming Languages: C++
