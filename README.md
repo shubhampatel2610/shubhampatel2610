@@ -1,9 +1,9 @@
-## Hi there 👋... I am Shubham Patel 😄... A full stack developer 💻
+## Hi there 👋... I am Shubham Patel 😄... A Full Stack Developer 💻
 
 ### About me
 - 🙋🏻‍♂️ I am 2023 BTech graduate from DAIICT, Gandhinagar.
 - 👨🏻‍💻 Interested in full stack development. Have relevant skills and experience.
-- 🔭 I’m currently working on Full stack development projects to get better experience. [RESUME](https://drive.google.com/file/d/1ueKEYvoXuOqu29KOYe3ApQa2GdgLIJUv/view?usp=sharing)
+- 🔭 [RESUME](https://drive.google.com/file/d/1ueKEYvoXuOqu29KOYe3ApQa2GdgLIJUv/view?usp=sharing)
 - 📫 How to reach me: Mobile - +91 7990037804  |  Email - shubhu2610@gmail.com
 
 ### Tools and Technologies
