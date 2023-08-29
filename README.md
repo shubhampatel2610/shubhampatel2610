@@ -7,7 +7,7 @@
 - 📫 How to reach me: Mobile - +91 7990037804  |  Email - shubhu2610@gmail.com
 
 ### Tools and Technologies
-- Web Development: ReactJS, NextJS, Redux, NodeJS, ExpressJS, MaterialUI, TypeScript/JavaScript, HTML, CSS, Bootstrap
+- Web Development: ReactJS, NextJS, Redux, NodeJS, ExpressJS, MaterialUI, JavaScript, HTML, CSS, Bootstrap
 - Databases: SQL, noSQL, MongoDB, postgreSQL
 - Version Control: Git, GitHub
 - Development Tools: Visual Studio Code, Postman
