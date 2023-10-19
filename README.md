@@ -6,7 +6,7 @@
 - 🙋🏻‍♂️ I am 2023 BTech graduate from DAIICT, Gandhinagar.
 - 👨🏻‍💻 Interested in full stack development. Have relevant skills and experience.
 - 🔭 [RESUME](https://drive.google.com/file/d/1ueKEYvoXuOqu29KOYe3ApQa2GdgLIJUv/view?usp=sharing)
-- 📫 How to reach me: Mobile - +91 7990037804  |  Email - shubhu2610@gmail.com
+- 📫 How to reach me: Mobile - shubhu2610@gmail.com
 
 ### Tools and Technologies
 - Web Development: ReactJS, NextJS, Redux, NodeJS, ExpressJS, MaterialUI, JavaScript, HTML, CSS, Bootstrap
