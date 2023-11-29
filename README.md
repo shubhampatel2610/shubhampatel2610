@@ -5,7 +5,7 @@
 ### About me
 - 🙋🏻‍♂️ I am 2023 BTech graduate from DAIICT, Gandhinagar.
 - 👨🏻‍💻 Interested in full stack development. Have relevant skills and experience.
-- 🔭 [RESUME](https://drive.google.com/file/d/1ueKEYvoXuOqu29KOYe3ApQa2GdgLIJUv/view?usp=sharing)
+- 🔭 [RESUME](https://drive.google.com/file/d/1gHKU2nJNYR8zcAb32C5Vr6MJMOnzV2bm/view?usp=sharing)
 - 📫 How to reach me: Mobile - shubhu2610@gmail.com
 
 ### Tools and Technologies
