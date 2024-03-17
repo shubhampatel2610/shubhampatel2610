@@ -4,7 +4,7 @@
 
 ### About me
 - 🙋🏻‍♂️ I am 2023 BTech graduate from DAIICT, Gandhinagar.
-- Constantly upgrading myself with gaining experience from my self learning and job.
+- 🚀 Constantly upgrading myself with gaining experience from my self learning and job.
 - 👨🏻‍💻 Interested in full stack development, with some relevant skills and experience.
 - 📫 Reach out to me: Mobile - shubham2610patel@gmail.com
 
