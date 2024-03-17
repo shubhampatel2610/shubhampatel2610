@@ -4,14 +4,14 @@
 
 ### About me
 - 🙋🏻‍♂️ I am 2023 BTech graduate from DAIICT, Gandhinagar.
-- 👨🏻‍💻 Interested in full stack development. Have relevant skills and experience.
-- 🔭 [RESUME](https://drive.google.com/file/d/1gHKU2nJNYR8zcAb32C5Vr6MJMOnzV2bm/view?usp=sharing)
-- 📫 How to reach me: Mobile - shubhu2610@gmail.com
+- Constantly upgrading myself with gaining experience from my self learning and job.
+- 👨🏻‍💻 Interested in full stack development, with some relevant skills and experience.
+- 📫 Reach out to me: Mobile - shubham2610patel@gmail.com
 
 ### Tools and Technologies
-- Web Development: ReactJS, NextJS, Redux, NodeJS, ExpressJS, MaterialUI, JavaScript, HTML, CSS, Bootstrap
+- Web Development: ReactJS, NextJS, Redux, MobX, NodeJS, ExpressJS, MaterialUI, JavaScript, HTML, CSS, Bootstrap
 - Databases: MongoDB, postgreSQL
-- Version Control: Git, GitHub
+- Version Control: Git, GitHub, BitBucket
 - Development Tools: Visual Studio Code, Postman
 - Programming Languages: C++
 
