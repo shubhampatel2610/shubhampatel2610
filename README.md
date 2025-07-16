@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-## Hi there 👋... I am Shubham Patel 😄... Jr. Full Stack Developer 💻
+## Hi there 👋... I am Shubham Patel 😄... Passionate Software Developer 💻
 
 ### About me
 - 🙋🏻‍♂️ I am 2023 BTech graduate from DAIICT, Gandhinagar.
@@ -9,11 +9,11 @@
 - 📫 Reach out to me: Mobile - shubham2610patel@gmail.com
 
 ### Tools and Technologies
-- Web Development: ReactJS, NextJS, Redux, MobX, NodeJS, ExpressJS, MaterialUI, JavaScript, HTML, CSS, Bootstrap
-- Databases: MongoDB, postgreSQL
+- Programming Languages: TypeScript, JavaScript, C++
+- Development: ReactJS, NextJS, Redux, MobX, Styling frameworks, UnitTesting, Jest, Enzyme, React Testing Library
+- Databases: MongoDB, postgreSQL (familiar)
 - Version Control: Git, GitHub, BitBucket
-- Development Tools: Visual Studio Code, Postman
-- Programming Languages: C++
+- Development Tools: Visual Studio Code, Postman, Apache Jmeter
 
 ### Familiar Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampatel2610&layout=compact&theme=dark)
