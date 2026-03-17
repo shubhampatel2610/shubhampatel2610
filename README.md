@@ -125,9 +125,9 @@
 
 # 🤝 Connect With Me
 
-📧 **Email:** shubham2610patel@gmail.com  
+📧 **Email:** shubham2610work@gmail.com  
 
-💼 **LinkedIn:** https://linkedin.com  
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/shubham-patel-6b01131b8/)  
 
 ---
 
