@@ -3,12 +3,14 @@
 <h3 align="center">Software Developer | React & Next.js Enthusiast | SaaS Builder</h3>
 
 <p align="center">
-  <a href="mailto:shubham2610work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail">
+  <a href="mailto:shubham2610work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shubham2610work%40gmail.com-red?style=flat&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/shubham-patel-6b01131b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
+  
+  <a href="https://www.linkedin.com/in/shubham-patel-6b01131b8">
+    <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Patel-blue?style=flat&logo=linkedin">
   </a>
+  
   <img src="https://komarev.com/ghpvc/?username=shubhampatel2610&label=Profile%20Views&color=blue&style=flat">
 </p>
 
