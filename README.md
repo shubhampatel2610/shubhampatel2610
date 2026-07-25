@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=React+%26+Next.js+Engineer;TypeScript+at+the+core;2%2B+years+shipping+SaaS+at+scale;Frontend+craft+%2B+System+design" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=React+%26+Next.js+Engineer;TypeScript+at+the+core;3%2B+years+shipping+SaaS+at+scale;Frontend+craft+%2B+System+design" alt="Typing tagline" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 ### `whoami`
 
-Software developer with **2+ years** building scalable SaaS products for
+Software developer with **3+ years** building scalable SaaS products for
 international clients — the kind of work where a slow render or a leaky
 state store costs real money.
 
@@ -36,7 +36,7 @@ design, and QA in the same room.
 
 ```yaml
 role:      Software Developer
-focus:     Frontend · Full-Stack · System Design
+focus:     Frontend · Backend · Full-Stack · System Design
 stack:     React · Next.js · TypeScript
 degree:    B.Tech ICT — DAIICT, Gandhinagar '23
 mindset:   Scale it, test it, then make it feel instant.
