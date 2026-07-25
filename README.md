@@ -115,7 +115,6 @@ mindset:   Scale it, test it, then make it feel instant.
 ## 💼 &nbsp;What I've Actually Shipped
 
 | | |
-|---|---|
 | 🏢 | Delivered **enterprise SaaS apps** for large international clients, from planning to production |
 | 🔄 | Migrated **legacy systems** into modern **React / Next.js** architecture without breaking flow |
 | 🧱 | Built scalable, reusable **TypeScript** UI component libraries other teams still use |
